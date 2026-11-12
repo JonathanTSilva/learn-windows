@@ -79,3 +79,7 @@ Distribuída por **MIT License**. Veja [LICENSE][2] para mais informações.
 [7]: /Docs/CONTRIBUTING.md
 
 <!-- IMAGES -->
+
+## Wiki
+
+The former wiki pages now live in [docs/wiki](docs/wiki/).
